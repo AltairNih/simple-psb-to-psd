@@ -29,20 +29,20 @@ If you want to tinker with the engine yourself, you're more than welcome.
    ```bash
    git clone [https://github.com/yourusername/psb-to-psd-converter.git](https://github.com/yourusername/psb-to-psd-converter.git)
 ````
-
-2.  Install the required dependencies:
-    ```bash
-    pip install pywin32 tkinterdnd2 Pillow
-    ```
-3.  Run the script directly:
-    ```bash
-    python converter.py
-    ```
-4.  To compile it into an `.exe` with the custom icon, use PyInstaller:
-    ```bash
-    pyinstaller --noconsole --onefile --icon=app_icon.ico converter.py
-    ```
 ````
+2.  Install the required dependencies:
+````
+    pip install pywin32 tkinterdnd2 Pillow
+````
+3.  Run the script directly:
+````
+    python converter.py
+````
+4.  To compile it into an `.exe` with the custom icon, use PyInstaller:
+````
+    pyinstaller --noconsole --onefile --icon=app_icon.ico converter.py
+````
+
 ## 🤝 Contributing
 
 Feel free to fork this project, submit pull requests, or drop an issue if you find a bug. Let's make life easier for fellow creators.
