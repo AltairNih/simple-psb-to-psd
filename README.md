@@ -3,7 +3,9 @@
 A lightweight, drag-and-drop utility designed to save your RAM and your sanity. 
 for those who need it.
 
-[Icon](app_icon.ico) ## 📖 The Story
+![Icon](app_icon.ico)
+
+## 📖 The Story
 Working with massive `.psb` files full of heavy layers—whether for long-strip typesetting, massive illustrations, or complex design canvases—can be exhausting. Opening and converting them to `.psd` one by one manually is a tedious chore. 
 
 This tool was born to take over that repetitive task. You drop the files, go grab a coffee, and let it do the heavy lifting in the background.
