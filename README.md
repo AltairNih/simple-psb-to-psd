@@ -26,9 +26,8 @@ This tool was born to take over that repetitive task. You drop the files, go gra
 If you want to tinker with the engine yourself, you're more than welcome.
 
 1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/psb-to-psd-converter.git](https://github.com/yourusername/psb-to-psd-converter.git)
 ````
+   git clone [https://github.com/yourusername/psb-to-psd-converter.git](https://github.com/yourusername/psb-to-psd-converter.git)
 ````
 2.  Install the required dependencies:
 ````
