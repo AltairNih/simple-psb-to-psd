@@ -42,7 +42,7 @@ If you want to tinker with the engine yourself, you're more than welcome.
     ```bash
     pyinstaller --noconsole --onefile --icon=app_icon.ico converter.py
     ```
-
+````
 ## 🤝 Contributing
 
 Feel free to fork this project, submit pull requests, or drop an issue if you find a bug. Let's make life easier for fellow creators.
