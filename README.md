@@ -49,5 +49,3 @@ Feel free to fork this project, submit pull requests, or drop an issue if you fi
 ## 📄 License
 
 [MIT License](https://www.google.com/search?q=LICENSE) - Do whatever you want with it, just keep the creative spirit alive.
-
-```
