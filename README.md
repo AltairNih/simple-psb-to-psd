@@ -24,26 +24,6 @@ This tool was born to take over that repetitive task. You drop the files, go gra
 5. Drag and drop your `.psb` files or folders into the dark window.
 6. Wait for the magic to happen!
 
-## 🛠️ How to Build (For Developers)
-If you want to tinker with the engine yourself, you're more than welcome.
-
-1. Clone this repository:
-````
-   git clone [https://github.com/yourusername/psb-to-psd-converter.git](https://github.com/yourusername/psb-to-psd-converter.git)
-````
-2.  Install the required dependencies:
-````
-    pip install pywin32 tkinterdnd2 Pillow
-````
-3.  Run the script directly:
-````
-    python converter.py
-````
-4.  To compile it into an `.exe` with the custom icon, use PyInstaller:
-````
-    pyinstaller --noconsole --onefile --icon=app_icon.ico converter.py
-````
-
 ## 🤝 Contributing
 
 Feel free to fork this project, submit pull requests, or drop an issue if you find a bug. Let's make life easier for fellow creators.
